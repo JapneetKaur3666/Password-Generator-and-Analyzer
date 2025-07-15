@@ -1,2 +1,2 @@
 # Password-Generator-and-Analyzer
-Generates strong passwords using random characters.
+Project made using python which generates strong passwords using random characters.
